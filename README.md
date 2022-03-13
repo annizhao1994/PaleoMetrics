@@ -14,6 +14,6 @@
 For Figure 1:
 1. Do we want to include Lunt et al. (2013) LIG and Lunt et al. (2012) EoMIP?
 2. Do we want to mark models by different colors? If so, I need to rename models in mPWP and EECO files.
-I need to check obervation values.
-I need to check ECS values.
+3. I need to check obervation values.
+4. I need to check ECS values.
 
