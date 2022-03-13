@@ -1,0 +1,334 @@
+*********IPCC METRICS*********
+
+CCSM_K global -90 to 90: 14.7192
+CCSM_K global -30 to 30: 9.79112
+CCSM_K global +-90 to +-60: 13.3796
+CCSM_K global -90 to -60: 33.9749
+CCSM_K global -60 to -30: 14.2705
+CCSM_K global -30 to 0: 10.2180
+CCSM_K global 0 to 30: 9.49795
+CCSM_K global 30 to 60: 17.1773
+CCSM_K global 60 to 90: 26.6409
+CCSM_K land -90 to 90: 17.3096
+CCSM_K land -30 to 30: 12.3549
+CCSM_K land +-90 to +-60: 14.7034
+CCSM_K land -90 to -60: 45.2970
+CCSM_K land -60 to -30: 9.10722
+CCSM_K land -30 to 0: 13.8834
+CCSM_K land 0 to 30: 11.2099
+CCSM_K land 30 to 60: 17.5236
+CCSM_K land 60 to 90: 26.1168
+CCSM_K ocean -90 to 90: 13.5388
+CCSM_K ocean -30 to 30: 9.09064
+CCSM_K ocean +-90 to +-60: 12.7372
+CCSM_K ocean -90 to -60: 25.7638
+CCSM_K ocean -60 to -30: 14.5862
+CCSM_K ocean -30 to 0: 9.31166
+CCSM_K ocean 0 to 30: 8.96835
+CCSM_K ocean 30 to 60: 16.0226
+CCSM_K ocean 60 to 90: 27.2719
+CCSM_K ocean (seaice=-1.8) -90 to 90: 13.5388
+CCSM_K ocean (seaice=-1.8) -30 to 30: 9.09064
+CCSM_K ocean (seaice=-1.8) +-90 to +-60: 12.7372
+CCSM_K ocean (seaice=-1.8) -90 to -60: 25.7638
+CCSM_K ocean (seaice=-1.8) -60 to -30: 14.5862
+CCSM_K ocean (seaice=-1.8) -30 to 0: 9.31166
+CCSM_K ocean (seaice=-1.8) 0 to 30: 8.96835
+CCSM_K ocean (seaice=-1.8) 30 to 60: 16.0226
+CCSM_K ocean (seaice=-1.8) 60 to 90: 27.2719
+
+GFDL global -90 to 90: 11.8602
+GFDL global -30 to 30: 9.28529
+GFDL global +-90 to +-60: 10.9097
+GFDL global -90 to -60: 25.7991
+GFDL global -60 to -30: 10.9293
+GFDL global -30 to 0: 9.68513
+GFDL global 0 to 30: 8.93658
+GFDL global 30 to 60: 12.5268
+GFDL global 60 to 90: 18.1771
+GFDL land -90 to 90: 13.1256
+GFDL land -30 to 30: 11.4731
+GFDL land +-90 to +-60: 10.9468
+GFDL land -90 to -60: 37.1651
+GFDL land -60 to -30: 5.86005
+GFDL land -30 to 0: 11.8639
+GFDL land 0 to 30: 11.2779
+GFDL land 30 to 60: 12.3462
+GFDL land 60 to 90: 17.0530
+GFDL ocean -90 to 90: 11.1480
+GFDL ocean -30 to 30: 8.70445
+GFDL ocean +-90 to +-60: 10.7129
+GFDL ocean -90 to -60: 17.5951
+GFDL ocean -60 to -30: 11.2830
+GFDL ocean -30 to 0: 9.14955
+GFDL ocean 0 to 30: 8.28501
+GFDL ocean 30 to 60: 11.6973
+GFDL ocean 60 to 90: 19.5921
+GFDL ocean (seaice=-1.8) -90 to 90: 11.1480
+GFDL ocean (seaice=-1.8) -30 to 30: 8.70445
+GFDL ocean (seaice=-1.8) +-90 to +-60: 10.7129
+GFDL ocean (seaice=-1.8) -90 to -60: 17.5951
+GFDL ocean (seaice=-1.8) -60 to -30: 11.2830
+GFDL ocean (seaice=-1.8) -30 to 0: 9.14955
+GFDL ocean (seaice=-1.8) 0 to 30: 8.28501
+GFDL ocean (seaice=-1.8) 30 to 60: 11.6973
+GFDL ocean (seaice=-1.8) 60 to 90: 19.5921
+
+GFDL global -90 to 90: 14.5970
+GFDL global -30 to 30: 11.5430
+GFDL global +-90 to +-60: 13.5722
+GFDL global -90 to -60: 29.5949
+GFDL global -60 to -30: 13.7142
+GFDL global -30 to 0: 12.0080
+GFDL global 0 to 30: 11.1471
+GFDL global 30 to 60: 15.4820
+GFDL global 60 to 90: 22.5741
+GFDL land -90 to 90: 16.3733
+GFDL land -30 to 30: 13.9046
+GFDL land +-90 to +-60: 14.0446
+GFDL land -90 to -60: 41.7685
+GFDL land -60 to -30: 8.84414
+GFDL land -30 to 0: 14.5658
+GFDL land 0 to 30: 13.4746
+GFDL land 30 to 60: 15.6276
+GFDL land 60 to 90: 21.4130
+GFDL ocean -90 to 90: 13.7019
+GFDL ocean -30 to 30: 10.9202
+GFDL ocean +-90 to +-60: 13.2260
+GFDL ocean -90 to -60: 20.7921
+GFDL ocean -60 to -30: 14.0302
+GFDL ocean -30 to 0: 11.3837
+GFDL ocean 0 to 30: 10.4989
+GFDL ocean 30 to 60: 14.4559
+GFDL ocean 60 to 90: 24.0407
+GFDL ocean (seaice=-1.8) -90 to 90: 13.7019
+GFDL ocean (seaice=-1.8) -30 to 30: 10.9202
+GFDL ocean (seaice=-1.8) +-90 to +-60: 13.2260
+GFDL ocean (seaice=-1.8) -90 to -60: 20.7921
+GFDL ocean (seaice=-1.8) -60 to -30: 14.0302
+GFDL ocean (seaice=-1.8) -30 to 0: 11.3837
+GFDL ocean (seaice=-1.8) 0 to 30: 10.4989
+GFDL ocean (seaice=-1.8) 30 to 60: 14.4559
+GFDL ocean (seaice=-1.8) 60 to 90: 24.0407
+
+CESM global -90 to 90: 16.5472
+CESM global -30 to 30: 12.7986
+CESM global +-90 to +-60: 15.2702
+CESM global -90 to -60: 35.0812
+CESM global -60 to -30: 15.9406
+CESM global -30 to 0: 13.4340
+CESM global 0 to 30: 12.2490
+CESM global 30 to 60: 16.8961
+CESM global 60 to 90: 26.9557
+CESM land -90 to 90: 19.7398
+CESM land -30 to 30: 17.6770
+CESM land +-90 to +-60: 17.6423
+CESM land -90 to -60: 43.8802
+CESM land -60 to -30: 12.7125
+CESM land -30 to 0: 19.0444
+CESM land 0 to 30: 16.6321
+CESM land 30 to 60: 19.1784
+CESM land 60 to 90: 25.6755
+CESM ocean -90 to 90: 15.1257
+CESM ocean -30 to 30: 11.5010
+CESM ocean +-90 to +-60: 14.2593
+CESM ocean -90 to -60: 28.7766
+CESM ocean -60 to -30: 15.9851
+CESM ocean -30 to 0: 12.0436
+CESM ocean 0 to 30: 11.0322
+CESM ocean 30 to 60: 14.4135
+CESM ocean 60 to 90: 28.6631
+CESM ocean (seaice=-1.8) -90 to 90: 15.1257
+CESM ocean (seaice=-1.8) -30 to 30: 11.5010
+CESM ocean (seaice=-1.8) +-90 to +-60: 14.2593
+CESM ocean (seaice=-1.8) -90 to -60: 28.7766
+CESM ocean (seaice=-1.8) -60 to -30: 15.9851
+CESM ocean (seaice=-1.8) -30 to 0: 12.0436
+CESM ocean (seaice=-1.8) 0 to 30: 11.0322
+CESM ocean (seaice=-1.8) 30 to 60: 14.4135
+CESM ocean (seaice=-1.8) 60 to 90: 28.6631
+
+CESM global -90 to 90: 22.2484
+CESM global -30 to 30: 17.8786
+CESM global +-90 to +-60: 20.8240
+CESM global -90 to -60: 42.9289
+CESM global -60 to -30: 21.7311
+CESM global -30 to 0: 18.5795
+CESM global 0 to 30: 17.2858
+CESM global 30 to 60: 22.6819
+CESM global 60 to 90: 34.5982
+CESM land -90 to 90: 27.0855
+CESM land -30 to 30: 24.4598
+CESM land +-90 to +-60: 24.7037
+CESM land -90 to -60: 53.8053
+CESM land -60 to -30: 19.5771
+CESM land -30 to 0: 25.6675
+CESM land 0 to 30: 23.5806
+CESM land 30 to 60: 26.0047
+CESM land 60 to 90: 33.8744
+CESM ocean -90 to 90: 20.2386
+CESM ocean -30 to 30: 16.1689
+CESM ocean +-90 to +-60: 19.2961
+CESM ocean -90 to -60: 35.0847
+CESM ocean -60 to -30: 21.5730
+CESM ocean -30 to 0: 16.8430
+CESM ocean 0 to 30: 15.6044
+CESM ocean 30 to 60: 19.5730
+CESM ocean 60 to 90: 35.5301
+CESM ocean (seaice=-1.8) -90 to 90: 20.2386
+CESM ocean (seaice=-1.8) -30 to 30: 16.1689
+CESM ocean (seaice=-1.8) +-90 to +-60: 19.2961
+CESM ocean (seaice=-1.8) -90 to -60: 35.0847
+CESM ocean (seaice=-1.8) -60 to -30: 21.5730
+CESM ocean (seaice=-1.8) -30 to 0: 16.8430
+CESM ocean (seaice=-1.8) 0 to 30: 15.6044
+CESM ocean (seaice=-1.8) 30 to 60: 19.5730
+CESM ocean (seaice=-1.8) 60 to 90: 35.5301
+
+NorESM global -90 to 90: 9.62305
+NorESM global -30 to 30: 6.26317
+NorESM global +-90 to +-60: 8.53757
+NorESM global -90 to -60: 25.3304
+NorESM global -60 to -30: 9.77085
+NorESM global -30 to 0: 6.74011
+NorESM global 0 to 30: 5.87510
+NorESM global 30 to 60: 10.4878
+NorESM global 60 to 90: 16.5465
+NorESM land -90 to 90: 11.3907
+NorESM land -30 to 30: 7.89222
+NorESM land +-90 to +-60: 9.29785
+NorESM land -90 to -60: 35.0254
+NorESM land -60 to -30: 6.04724
+NorESM land -30 to 0: 9.12724
+NorESM land 0 to 30: 6.95457
+NorESM land 30 to 60: 12.0858
+NorESM land 60 to 90: 16.9583
+NorESM ocean -90 to 90: 8.74261
+NorESM ocean -30 to 30: 5.78604
+NorESM ocean +-90 to +-60: 8.10261
+NorESM ocean -90 to -60: 18.3365
+NorESM ocean -60 to -30: 9.92664
+NorESM ocean -30 to 0: 6.13159
+NorESM ocean 0 to 30: 5.49051
+NorESM ocean 30 to 60: 8.48386
+NorESM ocean 60 to 90: 16.1227
+NorESM ocean (seaice=-1.8) -90 to 90: 8.74344
+NorESM ocean (seaice=-1.8) -30 to 30: 5.78604
+NorESM ocean (seaice=-1.8) +-90 to +-60: 8.10264
+NorESM ocean (seaice=-1.8) -90 to -60: 18.3534
+NorESM ocean (seaice=-1.8) -60 to -30: 9.92664
+NorESM ocean (seaice=-1.8) -30 to 0: 6.13159
+NorESM ocean (seaice=-1.8) 0 to 30: 5.49051
+NorESM ocean (seaice=-1.8) 30 to 60: 8.48386
+NorESM ocean (seaice=-1.8) 60 to 90: 16.1234
+
+COSMOS global -90 to 90: 13.0434
+COSMOS global -30 to 30: 11.7783
+COSMOS global +-90 to +-60: 12.1244
+COSMOS global -90 to -60: 26.7172
+COSMOS global -60 to -30: 12.0541
+COSMOS global -30 to 0: 12.0733
+COSMOS global 0 to 30: 11.5252
+COSMOS global 30 to 60: 12.2741
+COSMOS global 60 to 90: 14.4329
+COSMOS land -90 to 90: 14.9963
+COSMOS land -30 to 30: 17.5113
+COSMOS land +-90 to +-60: 13.1170
+COSMOS land -90 to -60: 36.9247
+COSMOS land -60 to -30: 6.75100
+COSMOS land -30 to 0: 18.6879
+COSMOS land 0 to 30: 16.6024
+COSMOS land 30 to 60: 13.0052
+COSMOS land 60 to 90: 14.5477
+COSMOS ocean -90 to 90: 12.1017
+COSMOS ocean -30 to 30: 10.3031
+COSMOS ocean +-90 to +-60: 11.6208
+COSMOS ocean -90 to -60: 19.3597
+COSMOS ocean -60 to -30: 12.1581
+COSMOS ocean -30 to 0: 10.4773
+COSMOS ocean 0 to 30: 10.1658
+COSMOS ocean 30 to 60: 10.9627
+COSMOS ocean 60 to 90: 14.4510
+COSMOS ocean (seaice=-1.8) -90 to 90: 12.1017
+COSMOS ocean (seaice=-1.8) -30 to 30: 10.3031
+COSMOS ocean (seaice=-1.8) +-90 to +-60: 11.6208
+COSMOS ocean (seaice=-1.8) -90 to -60: 19.3597
+COSMOS ocean (seaice=-1.8) -60 to -30: 12.1581
+COSMOS ocean (seaice=-1.8) -30 to 0: 10.4773
+COSMOS ocean (seaice=-1.8) 0 to 30: 10.1658
+COSMOS ocean (seaice=-1.8) 30 to 60: 10.9627
+COSMOS ocean (seaice=-1.8) 60 to 90: 14.4510
+
+INMCM global -90 to 90: 10.1526
+INMCM global -30 to 30: 8.33435
+INMCM global +-90 to +-60: 9.19523
+INMCM global -90 to -60: 24.2204
+INMCM global -60 to -30: 10.0503
+INMCM global -30 to 0: 9.07366
+INMCM global 0 to 30: 7.64490
+INMCM global 30 to 60: 9.46636
+INMCM global 60 to 90: 12.6061
+INMCM land -90 to 90: 11.5146
+INMCM land -30 to 30: 12.2386
+INMCM land +-90 to +-60: 9.52144
+INMCM land -90 to -60: 34.3280
+INMCM land -60 to -30: 6.98671
+INMCM land -30 to 0: 14.2127
+INMCM land 0 to 30: 10.6252
+INMCM land 30 to 60: 9.91856
+INMCM land 60 to 90: 11.3010
+INMCM ocean -90 to 90: 9.40257
+INMCM ocean -30 to 30: 7.28882
+INMCM ocean +-90 to +-60: 8.90842
+INMCM ocean -90 to -60: 16.9702
+INMCM ocean -60 to -30: 10.1263
+INMCM ocean -30 to 0: 7.80293
+INMCM ocean 0 to 30: 6.78903
+INMCM ocean 30 to 60: 8.27653
+INMCM ocean 60 to 90: 14.1537
+INMCM ocean (seaice=-1.8) -90 to 90: 9.46411
+INMCM ocean (seaice=-1.8) -30 to 30: 7.28882
+INMCM ocean (seaice=-1.8) +-90 to +-60: 8.97406
+INMCM ocean (seaice=-1.8) -90 to -60: 16.9702
+INMCM ocean (seaice=-1.8) -60 to -30: 10.1263
+INMCM ocean (seaice=-1.8) -30 to 0: 7.80293
+INMCM ocean (seaice=-1.8) 0 to 30: 6.78903
+INMCM ocean (seaice=-1.8) 30 to 60: 8.27653
+INMCM ocean (seaice=-1.8) 60 to 90: 15.6495
+*********IPCC METRICS MEANS (latex table)*********
+global & -90 to 90 & 14.0989 \\
+global & -30 to 30 & 10.9590 \\
+global & +-90 to +-60 & 12.9766 \\
+global & -90 to -60 & 30.4559 \\
+global & -60 to -30 & 13.5576 \\
+global & -30 to 0 & 11.4765 \\
+global & 0 to 30 & 10.5202 \\
+global & 30 to 60 & 14.6240 \\
+global & 60 to 90 & 21.5664 \\
+land & -90 to 90 & 16.4419 \\
+land & -30 to 30 & 14.6890 \\
+land & +-90 to +-60 & 14.2471 \\
+land & -90 to -60 & 41.0243 \\
+land & -60 to -30 & 9.48574 \\
+land & -30 to 0 & 15.8816 \\
+land & 0 to 30 & 13.7946 \\
+land & 30 to 60 & 15.7113 \\
+land & 60 to 90 & 20.8675 \\
+ocean & -90 to 90 & 13.0000 \\
+ocean & -30 to 30 & 9.97039 \\
+ocean & +-90 to +-60 & 12.3579 \\
+ocean & -90 to -60 & 22.8349 \\
+ocean & -60 to -30 & 13.7086 \\
+ocean & -30 to 0 & 10.3929 \\
+ocean & 0 to 30 & 9.60428 \\
+ocean & 30 to 60 & 12.9857 \\
+ocean & 60 to 90 & 22.4782 \\
+ocean (seaice=-1.8) & -90 to 90 & 13.0078 \\
+ocean (seaice=-1.8) & -30 to 30 & 9.97039 \\
+ocean (seaice=-1.8) & +-90 to +-60 & 12.3661 \\
+ocean (seaice=-1.8) & -90 to -60 & 22.8370 \\
+ocean (seaice=-1.8) & -60 to -30 & 13.7086 \\
+ocean (seaice=-1.8) & -30 to 0 & 10.3929 \\
+ocean (seaice=-1.8) & 0 to 30 & 9.60428 \\
+ocean (seaice=-1.8) & 30 to 60 & 12.9857 \\
+ocean (seaice=-1.8) & 60 to 90 & 22.6652 \\
