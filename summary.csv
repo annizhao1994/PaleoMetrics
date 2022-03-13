@@ -1,0 +1,28 @@
+﻿Extended from IPCC AR6 Figure 7.19 ,,,,,,,
+Global mean temperature anomaly in simulations and observations from 5 time periods,,,,,,,
+In each sheet:,,,,,,,
+row 1: PMIP generations ,,,,,,,
+Row 2:,models,model name,,,,,
+,ECS,equilibrium climate sensitivity (deg_C),,,,,
+,dT,period - PI (deg_C),,,,,
+,,,,,,,
+Information,,,,,,,
+,periods,generations,ref.,doi,source,notes,
+,historical,CMIP5,,,,Calculated from the CVDP files on server,"averaged over different years, see ""historical"""
+,,CMIP6,,,,Calculated from the netcdf files on Github repository pmip_p2fvar_analyzer,"NorESM2-LM averaged over 1950-2014, others 1850-2014"
+,MH,PMIP3,Brierley et al. (2020),10.5194/cp-16-1847-2020,,From latbands sheet,
+,,PMIP4,Brierley et al. (2020),10.5194/cp-16-1847-2020,,From latbands sheet,
+,LGM,PMIP3,Kageyama et al. (2021),10.5194/cp-17-63-2021,table S2,plotted as PI - LGM in Figure 1,
+,,PMIP4,Kageyama et al. (2021),10.5194/cp-17-63-2021,,From latbands sheet,We got a different number for IPSLCM5A2 at -4.88. In Masa's paper that's -4.63.
+,LIG,,Lunt et al. (2013),10.5194/cp-9-699-2013,,Do we want to include this?,
+,,PMIP4,Otto-Bliesner et al. (2021),10.5194/cp-17-36-2021,,From latbands sheet,
+,mPWP,PlioMIP1,Haywood et al. (2013),10.5194/cp-9-191-2013,table 2,,Some ECS numbers in Alan's paper are different to ours
+,,PlioMIP2,Haywood et al. (2020),10.5194/cp-16-2095-2020,,From latbands sheet,
+,EECO,EoMIP,Lunt et al. (2012),10.5194/cp-8-1717-2012,,Do we want to include this?,
+,,DeepMIP,Lunt et al. (2021),10.5194/cp-17-203-2021,email,"From email, Dan sent to Bette on 24 Nov 2020, Bette forwarded to me on 26 Nov 2020",
+,,,,,,,
+,,,,,,,
+Things to do/confirm,,,,,,,
+Do we want to include Lunt et al. (2013) and (2012) datasets?,,,,,,,
+"If we want to plot models in different colors, I need to rename the models in ""LGM"", ""mPWP"" and ""EECO"".  Changes are also required in csv files.",,,,,,,
+I need to check ECS values ,,,,,,,
