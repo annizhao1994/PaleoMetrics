@@ -32,7 +32,7 @@ Problems: Temp12k data don’t have uncertainties, so not plot here at the momen
      Ensemble mean spatial map: Computed via using the files in data_netcdf in pmip_p2fvar_analyzer
      lat averaged plot: calculated from the files in data_netcdf in pmip_p2fvar_analyzer
      Proxy data:  Cleator et al (2019) Tierney et al (2020) 
-Problems: Need to compute more LGM simulations via CVDP
+Problems: Need to compute more LGM simulations via CVDP (Solved on 9 Apr 2022 by directly computing MMM instead)
                  Only found gridded proxy data for Cleator 2019. Need to find site level dataset
 
 ### (3) LIG
@@ -47,7 +47,7 @@ Problems: In pmip_p2fvar_analyzer,  tas_spatialmean_ann MPI lig127k is upside do
 
 ### (5) EECO
     Simulations are downloaded from Lunt et al. (2021) DeepMIP paper
-Problems: Fail to create ensemble mean, error comes from COSMOS simulations.
+Problems: Fail to create ensemble mean, error comes from COSMOS simulations. (Solved 11 Apr 2022)
 Need to confirm which model to include. According to the email on 26 Nov 2020, the ensemble should include 2 CESM 1.2 (6xCO2, 9x), 2 GFDL (4x, 6x), INMN (6x), COSMOS (4x), CCSM4_K and NorESM1-F (4x)
 
 
