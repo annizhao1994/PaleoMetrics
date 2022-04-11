@@ -30,7 +30,7 @@ Bottom row: lat.averaged
      Ensemble mean spatial map: Computed via using the files in data_netcdf in pmip_p2fvar_analyzer
      lat averaged plot: calculated from the files in data_netcdf in pmip_p2fvar_analyzer
      Proxy data: Bartlein et al (2014)
-Problems: Temp12k data don’t have uncertainties, so not plot here at the moment.
+Problems: Need to confirm Temp12k data uncertainties
 ### (2) LGM
      Ensemble mean spatial map: Computed via using the files in data_netcdf in pmip_p2fvar_analyzer
      lat averaged plot: calculated from the files in data_netcdf in pmip_p2fvar_analyzer
