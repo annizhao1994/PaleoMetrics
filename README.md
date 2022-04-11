@@ -1,5 +1,8 @@
 # PaleoMetrics
 
+## Fig2 Note: tas and tos give similar (nearly same) temp anomalies except in polar regions where are coverd by sea ice
+
+
 ## Figure 1
 ### See summary,csv for information
 
