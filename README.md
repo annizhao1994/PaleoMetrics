@@ -1,4 +1,5 @@
 # PaleoMetrics
+--------------------------
 ## Figure2_polar_amplification stores everything for figure 2: ploar amplification
 ## PaleoMetrics stores the rest files
 
@@ -27,8 +28,14 @@ For Figure 1:
 
 ----------------------------
 ## Figure 2 
+### original 
 Top row: spatial maps
 Bottom row: lat.averaged 
+### updated in July
+Top row: spatial maps
+Middle row: lat.averaged 
+Bottom row: lat.averaged sst
+
 ### (1) MH
      Ensemble mean spatial map: Computed via using the files in data_netcdf in pmip_p2fvar_analyzer
      lat averaged plot: calculated from the files in data_netcdf in pmip_p2fvar_analyzer
@@ -58,6 +65,7 @@ Need to confirm which model to include. According to the email on 26 Nov 2020, t
 
 -----------------
 ## Figure 3 
-relotting 
+Box TS.2, Figure 2.ipynb
+relotting Box TS.2, IPCC AR6
 
 
