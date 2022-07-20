@@ -56,7 +56,7 @@ Problems: Need to compute more LGM simulations via CVDP (Solved on 9 Apr 2022 by
      Ensemble mean spatial map: output from the LIG paper
      lat averaged plot: from the LIG paper
     Proxy data: all annual anomaly used in the LIG paper
-Problems: In pmip_p2fvar_analyzer,  tas_spatialmean_ann MPI lig127k is upside down.
+Problems: don't have AWI-ESM-2-1-LR sst
 
 ### (4)mPWP
     Map and lines are adopted from Figure 1a and 1c of Haywood et al. (2021)
