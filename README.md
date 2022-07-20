@@ -24,6 +24,7 @@ For Figure 1:
 
 ----------------------------
 ## Figure 2
+codes and data are stored in Fig2 folder
 Top row: spatial maps
 Bottom row: lat.averaged 
 ### (1) MH
