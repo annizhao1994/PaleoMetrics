@@ -4,12 +4,17 @@
 # Figure 2 polar amplification
 ## Information:
 ### Figure2_polar_amplification(Fig7.13).ipynb
-Top row: spatial maps\
+Top row: spatial maps sat\
 Bottom row: lat.averaged 
 ### Figure2_polar_amplification(tas & tos)_July.ipynb
-Top row: spatial maps\
+Top row: spatial maps sat over land, sst over ocean\
+  sst MMM: averaged at girds where all models are available\
+  plotted MMM: replace "nan" in sst MMM by sat MMM at those grids \
+  Problem: wrong land-sea mask\
+  
 Middle row: lat.averaged \
 Bottom row: lat.averaged sst
+
 --------------
 (1) MH\
      Ensemble mean spatial map: Computed via using the files in data_netcdf in pmip_p2fvar_analyzer\
@@ -26,7 +31,7 @@ Problems: Only found gridded proxy data for Cleator 2019. Need to find site leve
      Ensemble mean spatial map: output from the LIG paper\
      lat averaged plot: from the LIG paper\
     Proxy data: all annual anomaly used in the LIG paper\
-Problems: In pmip_p2fvar_analyzer,  tas_spatialmean_ann MPI lig127k is upside down. Have fixed that in this figure\
+Problems: don't have AWI-ESM-2-1-LR sst (both lig127k and piControl)\
 \
 (4)mPWP\
     Map and lines are adopted from Figure 1a and 1c of Haywood et al. (2021)\
