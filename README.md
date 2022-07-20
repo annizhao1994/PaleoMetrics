@@ -1,8 +1,11 @@
 # PaleoMetrics
+## Figure2_polar_amplification stores everything for figure 2: ploar amplification
+## PaleoMetrics stores the rest files
 
+##
 ## Fig2 Note: tas and tos give similar (nearly same) temp anomalies except in polar regions where are coverd by sea ice
 
-
+--------------------------
 ## Figure 1
 ### See summary,csv for information
 
@@ -23,8 +26,7 @@ For Figure 1:
 4. I need to check ECS values.
 
 ----------------------------
-## Figure 2
-codes and data are stored in Fig2 folder
+## Figure 2 
 Top row: spatial maps
 Bottom row: lat.averaged 
 ### (1) MH
@@ -53,5 +55,9 @@ Problems: In pmip_p2fvar_analyzer,  tas_spatialmean_ann MPI lig127k is upside do
     Simulations are downloaded from Lunt et al. (2021) DeepMIP paper
 Problems: Fail to create ensemble mean, error comes from COSMOS simulations. (Solved 11 Apr 2022)
 Need to confirm which model to include. According to the email on 26 Nov 2020, the ensemble should include 2 CESM 1.2 (6xCO2, 9x), 2 GFDL (4x, 6x), INMN (6x), COSMOS (4x), CCSM4_K and NorESM1-F (4x)
+
+-----------------
+## Figure 3 
+relotting 
 
 
