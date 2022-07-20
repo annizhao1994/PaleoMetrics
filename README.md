@@ -4,7 +4,7 @@
 ## PaleoMetrics stores the rest files
 
 ##
-## Fig2 Note: tas and tos give similar (nearly same) temp anomalies except in polar regions where are coverd by sea ice
+## Fig2 Note: tas and tos give similar (nearly same) temp anomalies except in polar regions coverd by sea ice
 
 --------------------------
 ## Figure 1
@@ -29,11 +29,15 @@ For Figure 1:
 ----------------------------
 ## Figure 2 
 ### original 
-Top row: spatial maps
+Top row: spatial maps sat\
 Bottom row: lat.averaged 
 ### updated in July
-Top row: spatial maps
-Middle row: lat.averaged 
+Top row: spatial maps sat over land, sst over ocean\
+  sst MMM: averaged at girds where all models are available\
+  plotted MMM: replace "nan" in sst MMM by sat MMM at those grids \
+  Problem: wrong land-sea mask\
+  
+Middle row: lat.averaged \
 Bottom row: lat.averaged sst
 
 ### (1) MH
