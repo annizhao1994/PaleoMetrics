@@ -5,11 +5,11 @@
 ## Information:
 ### Figure2_polar_amplification(Fig7.13).ipynb
 Top row: spatial maps\
-Bottom row: lat.averaged \
+Bottom row: lat.averaged 
 ### Figure2_polar_amplification(tas & tos)_July.ipynb
 Top row: spatial maps\
 Middle row: lat.averaged \
-Bottom row: lat.averaged sst\
+Bottom row: lat.averaged sst
 --------------
 (1) MH\
      Ensemble mean spatial map: Computed via using the files in data_netcdf in pmip_p2fvar_analyzer\
